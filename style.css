@@ -1,0 +1,107 @@
+body{
+    font-family:'Koh Santepheap', cursive;
+    margin: 0;
+    background-color:rgb(159, 220, 247);
+    
+}
+.orange-color{
+    color: rgb(255, 123, 0);
+}
+h1{
+    font-size: 40px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 80%;
+    padding-left: 2%;
+    margin-right: 180px;
+}
+.half-width img{
+    width: 90%;
+    margin-right: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px ;
+    border-radius: 20px;
+    color: white;
+    
+}
+.mid-banner{
+    background-image: url(images/Frame\ 57.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    height: 300px;
+      
+}
+#mid-image{
+    margin-left: 150px;
+}
+
+.my-recipies{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+   
+}
+.three-flexible-container{
+    display:flex; 
+    margin: 10px; 
+}
+
+.three-flexible-container img{
+    width: 250px;
+}
+
+.half-width-recipie {
+    border-radius: 10px ;
+    box-shadow: 20px 20px 50px gray;
+    width: 450px;
+    padding: 25px;
+    margin: 25px; 
+}
+.half-width-recipie img{
+    width: 300px;
+    padding:8px;
+}
+.food-img{
+    border-radius: 10%;
+    height: 50%;
+}
+
+#food-galary-size{
+    text-align: center;
+    background-color: black;
+    padding-top: 4px;
+    height: 300px; 
+
+}
+
+.end-section{
+  
+  color: rgb(20, 20, 19);
+}
+.end-section-flexible{
+    display: flex;
+    margin: 10px;   
+    padding: 2%;
+}
+.flexible-social-media {
+    display: flex;
+}
+.flexible-social-media img{
+    width: 40px;
+    margin: 2px;
+    border-radius: 30px;
+}
+.half-end-width{
+    width: 25%;
+}
+footer{
+    text-align: center;
+}
